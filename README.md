@@ -2,7 +2,7 @@ For the FIFA Stats Project:
 
 Overview: A complete end-to-end data project analyzing historical tournament attendance data across various cities and years.
 
-Tools Used: DBeaver, Google Sheets, Tableau
+Tools Used: DBeaver, SQL, Google Sheets, Tableau
 
 Key Findings:
 
